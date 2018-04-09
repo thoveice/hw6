@@ -29,6 +29,7 @@
 ### 3. Частотность слова "inept":
 В SketchEngine:
 ![](https://pp.userapi.com/c844321/v844321811/16b92/aUCX8D31wJw.jpg)
+![](https://pp.userapi.com/c845520/v845520540/23b95/O64_-eezGr0.jpg)
 
 В Google Ngrams:
 ![](https://pp.userapi.com/c844321/v844321811/16b89/-1A2bwiCcqM.jpg)
